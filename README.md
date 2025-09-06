@@ -8,7 +8,7 @@ Uma simples e bela página web com uma animação de flores desabrochando. Perfe
 
 Você pode ver a animação em ação aqui:
 
-➡️ **[https://SEU-USUARIO.github.io/SEU-REPOSITORIO/](https://SEU-USUARIO.github.io/SEU-REPOSITORIO/)**
+➡️ **https://kaua-hiro.github.io/presente-flores-animadas/**
 
 > **Atenção:** Substitua `SEU-USUARIO` e `SEU-REPOSITORIO` pelos seus dados do GitHub depois de publicar o projeto com o GitHub Pages.
 
